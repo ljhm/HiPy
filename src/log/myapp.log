@@ -1,0 +1,2 @@
+2022-03-11 22:58:18,997 INFO /Users/ljh/Documents/helloPy/libdir/mylog.py:34:config: log filename: /Users/ljh/Documents/helloPy/libdir/../log/myapp.log
+2022-03-11 22:58:18,997 INFO /Users/ljh/Documents/helloPy/appdir/main.py:8:<module>: __main__
